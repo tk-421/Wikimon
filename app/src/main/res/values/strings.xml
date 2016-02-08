@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wikimon</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Home Screen Buttons -->
+    <string name = "pokemon_name">Pokemon Name</string>
+    <string name="search">Search</string>
+</resources>
